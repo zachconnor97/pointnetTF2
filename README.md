@@ -3,6 +3,9 @@ Created by <a href="http://charlesrqi.com" target="_blank">Charles R. Qi</a>, <a
 
 ![prediction example](https://github.com/charlesq34/pointnet/blob/master/doc/teaser.png)
 
+### Modifications
+I am attempting to modify this code to work with Tensorflow v2. 
+
 ### Introduction
 This work is based on our [arXiv tech report](https://arxiv.org/abs/1612.00593), which is going to appear in CVPR 2017. We proposed a novel deep net architecture for point clouds (as unordered point sets). You can also check our [project webpage](http://stanford.edu/~rqi/pointnet) for a deeper introduction.
 
